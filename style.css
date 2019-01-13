@@ -1,7 +1,7 @@
 /* Custom Properties */
 :root {
-  --main-color: #0fd6cdf5;
-  --main-modal-color: #0fd6cdf5;
+  --main-color: #03A9F4;
+  --main-modal-color: rgba(240, 219, 79, .5);
   --second-color: #2B2B2B;
   --second-modal-color: rgba(43, 43, 43, .5);
 }
@@ -84,3 +84,12 @@ p {
     width: 100%;
     height: 100%;
   }
+
+.footer {
+  background-color: black;
+  position: absolute;
+  bottom: 0;
+  width: 100%;
+  height: 40px;
+  color: white;
+}
