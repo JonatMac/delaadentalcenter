@@ -3,7 +3,7 @@
   "short_name": "De la A Dental Center",
   "description": "Consultorio Odontologico 'De la A Dental Center' ",
   "background_color": "#2B2B2B",
-  "theme_color": "#03A9F4",
+  "theme_color": "#0fd6cdf5",
   "orientation": "portrait",
   "display": "standalone",
   "start_url": "./?utm_source=web_app_manifest",
