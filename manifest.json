@@ -11,54 +11,54 @@
   "lang": "es-MX",
   "icons": [
     {
-      "src": "./img/logox1024.jpg",
+      "src": "./img/logox1024.png",
       "sizes": "1024x1024",
-      "type": "image/jpg"
+      "type": "image/png"
     },
     {
-      "src": "./img/logox512.jpg",
+      "src": "./img/logox512.png",
       "sizes": "512x512",
-      "type": "image/jpg"
+      "type": "image/png"
     },
     {
-      "src": "./img/logox384.jpg",
+      "src": "./img/logox384.png",
       "sizes": "384x384",
-      "type": "image/jpg"
+      "type": "image/png"
     },
     {
-      "src": "./img/logox256.jpg",
+      "src": "./img/logox256.png",
       "sizes": "256x256",
-      "type": "image/jpg"
+      "type": "image/png"
     },
     {
-      "src": "./img/logox192.jpg",
+      "src": "./img/logox192.png",
       "sizes": "192x192",
-      "type": "image/jpg"
+      "type": "image/png"
     },
     {
-      "src": "./img/logox128.jpg",
+      "src": "./img/logox128.png",
       "sizes": "128x128",
-      "type": "image/jpg"
+      "type": "image/png"
     },
     {
-      "src": "./img/logox96.jpg",
+      "src": "./img/logox96.png",
       "sizes": "96x96",
-      "type": "image/jpg"
+      "type": "image/png"
     },
     {
-      "src": "./img/logox64.jpg",
+      "src": "./img/logox64.png",
       "sizes": "64x64",
-      "type": "image/jpg"
+      "type": "image/png"
     },
     {
-      "src": "./img/logox32.jpg",
+      "src": "./img/logox32.png",
       "sizes": "32x32",
-      "type": "image/jpg"
+      "type": "image/png"
     },
     {
-      "src": "./img/logo1.jpg",
+      "src": "./img/logo1.png",
       "sizes": "16x16",
-      "type": "image/jpg"
+      "type": "image/png"
     }
   ]
 }
